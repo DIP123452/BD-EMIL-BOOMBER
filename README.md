@@ -28,7 +28,7 @@ cd BD-EMIL-BOOMBER
 
 ls 
 
-python DIP.PY 
+python SENAYEL.PY 
 
 #IF YOU DECODE MY TOOLS I FUCK YOU 
 
